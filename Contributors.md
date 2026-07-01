@@ -1761,6 +1761,7 @@ Aakash Gupta
 - [Trương Huỳnh Anh Thông](https://github.com/AnhThong1503)
 - [GordonYuanyc] (https://github.com/GordonYuanyc)
 - [zhj](https://github.com/ajajaj238)
+- [kommulasubash],(https://github.com/kommulasubash)
 - [张喜昌](https://github.com/ZhangXiChang)
 - [Priyanshi Saini](https://github.com/priyanshi012)
 - [Avanti Tatwawadi](https://github.com/Avanti-27)
@@ -2250,7 +2251,7 @@ Second commit
 - [Kaung Si Thu] (https://github.com/https://github.com/kg-sithu)
 - [ilyas üstüntaş](https://github.com/Lys-afk) 
 - [Santhosh C V](https://github.com/Santhoshcv07)
-- [kommulasubash],(https://github.com/kommulasubash)
+  
 Himanshu Singh wants Pull Shark
 Siddesh Raoandure
 Nethmi Thakshila
